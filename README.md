@@ -75,8 +75,8 @@ npm install
 Create a `.env` file in the backend folder and add:
 
 ```env
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
+MONGO_URI=mongodb://127.0.0.1:27017/safikul
+JWT_SECRET=abac12afsdkjladf
 PORT=5000
 ```
 
